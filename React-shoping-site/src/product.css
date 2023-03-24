@@ -1,0 +1,18 @@
+.aa{
+    border-radius: 10px;
+    background-color: rgb(216, 234, 250);
+}
+.aa:hover{
+    transform: scale(1.1);
+    transition: all 1s;
+    background-color: rgb(138, 138, 249);
+}
+b{
+    color: orange;
+}
+.mainDiv{
+    background-color: rgb(248, 241, 231);
+}
+.mar{
+    margin-top: 60px;
+}
